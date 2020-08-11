@@ -12,9 +12,8 @@ Projeto desenvolvido em sala de aula para o curso FORMAÇÃO FRONTEND (Apex Ensi
 - Css
 - JavaScript
 - React (Web)
-- React Native (App)
 - NodeJs (Backend, APIs)
-- Mongo (Banco)
+
 
 ## Rodando o projeto
 Basta seguir os passos:
